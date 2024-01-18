@@ -832,7 +832,9 @@ body{
 	Start Feautes CSS
 ===============================*/
 .Feautes{
-	padding-top:0;
+	/* padding-top:0; */
+	background:#8a8a8a;
+
 }
 .Feautes.index2{
 	padding-top:100px;
@@ -901,7 +903,7 @@ body{
 	position:relative;
 }
 .fun-facts.section{
-	padding:120px 0;
+	/* padding:120px 0; */
 }
 .fun-facts{
 	background:url('img/fun-bg.jpg');
@@ -1133,7 +1135,9 @@ body{
 	Start Portfolio CSS
 ============================*/
 .portfolio{
-	background:#8a8a8a;
+	/* background:#8a8a8a; */
+	/* padding-top:0; */
+
 }
 .portfolio .single-pf{
 	position:relative;
@@ -1149,7 +1153,7 @@ body{
 	top:0;
 	height:100%;
 	width:100%;
-	background:#1a76d1;
+	background:#797b7c;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;

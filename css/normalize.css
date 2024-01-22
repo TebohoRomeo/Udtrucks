@@ -755,6 +755,7 @@ a:hover, a:active {
 .main-navigation {
 	clear: both;
 	display: block;
+	/* background: #1A76D1; */
 	float: left;
 	width: 100%;
 }

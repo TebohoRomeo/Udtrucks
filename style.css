@@ -301,12 +301,6 @@ body{
 	z-index:999;
 	width:100%;
 }
-.get-quote{
-	margin-top:12px;
-}
-.get-quote .btn{
-	color:#fff;
-}
 .header .logo {
 	float: left;	
 	margin-top: 18px;
@@ -451,7 +445,7 @@ body{
 	opacity: 0;
 	visibility: hidden;
 	top: 74px;
-	border-left:3px solid #2889e4;
+	border-left:3px solid #8a8a8a;
 }
 .header .nav li:hover .dropdown{
 	opacity:1;

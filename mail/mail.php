@@ -15,7 +15,7 @@ Message: ".$message."
 
 ";
 
-mail ("ldhlamini@motustoyota.co.za" , "New Message", $email_message);
+mail ("teboholekhalo13@gmail.com" , "New Message", $email_message);
 header("location: ../mail-success.html");
 ?>
 
